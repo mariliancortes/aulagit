@@ -1,2 +1,4 @@
 Olá! Vamos testar tudo direitinho!
 Olá mundo, bem vindos à Digital House!
+
+Esta é uma aula de git. Estamos vendo como versionar arquivos.
